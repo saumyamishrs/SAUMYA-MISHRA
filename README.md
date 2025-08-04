@@ -36,7 +36,7 @@ I'm open to collaborations, internships, and learning opportunities. Let's conne
 
 - 📩 Email: msaumya711@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/saumya-mishra](https://www.linkedin.com/in/saumya-mishra-b6b3a6259/)  
-- 🌍 GitHub: [github.com/Saumya-Mishra]()
+- 🌍 GitHub: [github.com/Saumya-Mishra](https://github.com/saumyamishrs)
 
 ---
 
