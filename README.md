@@ -1,43 +1,58 @@
-# SAUMYA-MISHRA
-# 👋 Welcome to My GitHub Repository!
+# 👋 Hi, I'm Saumya Mishra
 
-Hey! I'm **Saumya Mishra**, a 3rd-year B.Tech Computer Science student at **Institute of Engineering and Rural Technology, Prayagraj**, affiliated with **AKTU, Lucknow**.
+**Data Analyst | SQL • Python • Power BI • Excel**
 
-I'm passionate about **Full-Stack Web Development** and solving real-world problems through clean and efficient code. I believe in continuous learning and hands-on experimentation to grow as a developer.
+B.Tech Computer Science graduate (2026) from Prayagraj. I turn raw data into clear business insights through data cleaning, SQL analysis, and interactive Power BI dashboards. **Available immediately** for entry-level Data Analyst, MIS and Business Analyst roles.
 
----
-
-## 🌟 About Me
-
-- 🎓 B.Tech in Computer Science (2022–2026)
-- 💡 Focused on Web Development, Backend Systems, and Real-Time Applications
-- 🔧 Skilled in **C, Java, JavaScript, C#, PHP**
-- 🛠️ Familiar with MySQL, HTML, CSS, and Git/GitHub
-- 🧠 Currently exploring **Data Structures & Algorithms** and **.NET Framework (C#)**
-  
+📍 Lucknow, Uttar Pradesh, India
+📩 msaumya711@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/saumya-mishra-b6b3a6259/)
 
 ---
 
-## 📁 What You'll Find Here
+## 🛠️ Skills
 
-This repository includes:
-
-- ✅ Real-world projects (like Water Quality Prediction, Banking Management System)
-- 💻 Web applications with frontend and backend integration
-- 🧩 Coding challenges and learning experiments
-- 🚀 Personal notes and resources from my development journey
-
----
----
-
-## 🤝 Let’s Connect!
-
-I'm open to collaborations, internships, and learning opportunities. Let's connect and grow together!
-
-- 📩 Email: msaumya711@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/saumya-mishra](https://www.linkedin.com/in/saumya-mishra-b6b3a6259/)  
-- 🌍 GitHub: [github.com/Saumya-Mishra](https://github.com/saumyamishrs)
+| Area | Tools |
+|---|---|
+| **Languages** | SQL, Python (Pandas, NumPy, Matplotlib, Seaborn) |
+| **Databases** | MySQL, PostgreSQL, SQL Server |
+| **BI & Visualization** | Power BI (DAX, Power Query), Excel (Pivot Tables, Power Query, XLOOKUP) |
+| **Analysis** | EDA, Data Cleaning, RFM Segmentation, Cohort and Churn Analysis |
+| **Tools** | Git/GitHub, Jupyter, VS Code, Google Colab |
 
 ---
 
-> “Build. Break. Learn. Repeat.” 
+## 📊 Featured Projects
+
+### 1. [Customer Shopping Behavior Analytics](https://github.com/saumyamishrs/Customer-Shopping-Behavior-Data-Analyst-Portfolio-Project)
+`Python` `PostgreSQL` `Power BI`
+- Cleaned 3,900 customer records and wrote 10 SQL queries using aggregations and window functions
+- Segmented customers into Loyal, Returning and New; built an interactive dashboard with KPI cards and slicers
+
+### 2. HR Analytics Dashboard
+`Power BI` `Power Query` `DAX`
+- Analyzed 1,470 employees: attrition 16.1%, with about 69% of leavers in the under-$5K salary band
+- Found that first-year attrition is the sharpest signal and delivered recommendations in an executive deck
+
+### 3. Online Retail Customer Analytics and RFM Segmentation
+`SQL Server` `Python` `Power BI` `Excel`
+- Cleaned 1M+ transactions and segmented 5,881 customers into 6 RFM segments
+- Champions generated 68% of revenue; overall churn was 50.9%
+
+### 4. [Zepto Inventory Optimization](https://github.com/saumyamishrs/-zepto-inventory-optimization-sql)
+`SQL`
+- Advanced SQL case study on dark store inventory, stockout metrics and supply chain efficiency
+
+### 5. [Water Quality Prediction](https://github.com/saumyamishrs/WATER-QUALITY-PREDICTION)
+`Python` `Machine Learning`
+- Predicts water quality from physicochemical parameters using ML algorithms
+
+---
+
+## 💼 Experience
+**.NET Developer Intern, STPI Lucknow** (Jul to Sep 2025)
+Wrote and optimized SQL queries and stored procedures, and built parameter-driven RDLC reports for business stakeholders.
+
+## 🎓 Certifications
+- SQL (Advanced), HackerRank
+- GenAI Powered Data Analytics Job
