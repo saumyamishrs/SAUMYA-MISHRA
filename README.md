@@ -2,7 +2,7 @@
 
 **Data Analyst | SQL • Python • Power BI • Excel**
 
-B.Tech Computer Science graduate (2026) from Prayagraj. I turn raw data into clear business insights through data cleaning, SQL analysis, and interactive Power BI dashboards. **Available immediately** for entry-level Data Analyst, MIS and Business Analyst roles.
+B.Tech Computer Science graduate (2026) based in Lucknow. I turn raw data into clear business insights through data cleaning, SQL analysis, and interactive Power BI dashboards. **Available immediately** for entry-level Data Analyst, MIS and Business Analyst roles.
 
 📍 Lucknow, Uttar Pradesh, India
 📩 msaumya711@gmail.com
